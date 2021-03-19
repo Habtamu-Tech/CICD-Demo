@@ -36,7 +36,7 @@
 				<environment>Sandbox</environment>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
-				<applicationName>worldtimezone-service</applicationName>
+				<applicationName>cicd-projectdemo</applicationName>
 				<password>Rocket2021</password>
 				<muleVersion>4.3.0</muleVersion>
 				</cloudHubDeployment>
